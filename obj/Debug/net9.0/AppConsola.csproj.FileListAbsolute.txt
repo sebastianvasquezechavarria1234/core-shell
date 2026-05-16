@@ -1,0 +1,14 @@
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\bin\Debug\net9.0\AppConsola.exe
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\bin\Debug\net9.0\AppConsola.deps.json
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\bin\Debug\net9.0\AppConsola.runtimeconfig.json
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\bin\Debug\net9.0\AppConsola.dll
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\bin\Debug\net9.0\AppConsola.pdb
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.dll
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\refint\AppConsola.dll
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.pdb
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\AppConsola.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\MisApps\AppConsola\obj\Debug\net9.0\ref\AppConsola.dll
