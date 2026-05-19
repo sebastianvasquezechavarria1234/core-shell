@@ -1,3 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("LA fecha de hoy es:");
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine($"Today's date is: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
